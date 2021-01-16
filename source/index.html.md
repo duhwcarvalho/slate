@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: API Reference - Wejam
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
@@ -8,11 +8,14 @@ language_tabs: # must be one of https://git.io/vQNgJ
   - javascript
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='https://github.com/slatedocs/slate'>Documentation Powered by Slate</a>
+  - <a href='https://github.com/duhwcarvalho/slate' target="_blank">Repository</a>
+  - <a href='https://wejam.digital/' target="_blank">Developed by Wejam</a>
+  - <a href='https://github.com/slatedocs/slate' target="_blank">Documentation Powered by Slate</a>
 
 includes:
-  - errors
+  - request_response
+  - status_codes
+  - pagination
 
 search: true
 
