@@ -1,5 +1,5 @@
 # Status Codes
-HTTP Status Codes (Success/Errors)
+HTTP Status Codes
 
 <aside class="notice">
 A nossa API valida cada um dos campos enviados na requisição antes de prosseguir com a criação, consulta ou gerenciamento dos pedidos, transações e recursos.
